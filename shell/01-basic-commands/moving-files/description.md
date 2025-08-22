@@ -1,4 +1,4 @@
-# Removing Directories
+# Moving a File
 
 ```text
   home
